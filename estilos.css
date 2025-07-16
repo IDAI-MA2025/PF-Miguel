@@ -130,8 +130,8 @@
      color: var(--color-texto);
      font-size: 30px;
 
-     float: right; 
-     display: none; 
+     float: right; /*Siempre va a estar a la derecha*/
+     display: none; /*No se muestra en pantallas grandes*/
      transition: all 0.5s;
 }
 
